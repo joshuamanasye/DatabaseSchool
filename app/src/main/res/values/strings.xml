@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Database School</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="database_school">Database School</string>
+    <string name="ini_bukan_bimob">ini bukan bimob</string>
+    <string name="continue_as_student">CONTINUE AS STUDENT</string>
+    <string name="classTxt">CLASS</string>
+    <string name="hi_world">Hi World!</string>
+    <string name="scoreTxt">SCORE</string>
+    <string name="home">Home</string>
+    <string name="assignment">ASSIGNMENT</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="academic_information">Academic Information</string>
+    <string name="assigment">ASSIGMENT</string>
+    <string name="nisn">NISN</string>
+    <string name="subject_id">Subject ID</string>
+    <string name="score">Score</string>
+    <string name="submit">SUBMIT</string>
+</resources>
