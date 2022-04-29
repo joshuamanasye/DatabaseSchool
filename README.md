@@ -4,14 +4,14 @@ The application is about 80% completed because I only have less than a week to d
 
 ### Please use the following login credentials to test the application. 
 
->**Student:**  
+**Student:**  
 Email: `jasonsasmita@sunib.ac.id`  
 Password: `123456`  
 
->**Teacher:**  
+**Teacher:**  
 Email: `Dharmawanto@sunib.ac.id`  
 Password: `Dharmawanto`  
 
->**Admin:**  
+**Admin:**  
 Email: `joman@sunib.ac.id`  
 Password: `123456`  
