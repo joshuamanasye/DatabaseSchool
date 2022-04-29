@@ -15,3 +15,5 @@ Password: `Dharmawanto`
 **Admin:**  
 Email: `joman@sunib.ac.id`  
 Password: `123456`  
+  
+> ***NOTE:*** If the database is down, you won't be able login. In case that happends, please try again in the next few hours.
