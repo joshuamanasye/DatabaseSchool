@@ -1,6 +1,6 @@
 # DatabaseSchool
 I created this project for a Database group assignment. This is my second time using Android Studio and the first time trying to use online database.
-The application is about 80% completed because I only have less than a week to do it, but I'm happy to see the result.
+The application is about 80% completed because I only have less than a week to do it, but I'm happy seeing the result.
 
 ### Please use the following login credentials to test the application. 
 
